@@ -1,2 +1,3 @@
 Hasbi Resolusi 
 - Konsisten belajar developer web
+- Belajar menggunakan github
